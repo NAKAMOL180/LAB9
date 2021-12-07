@@ -31,10 +31,10 @@ int main(){
             cout << "Your status = BEST FRIEND";
             }else{
                 cout << "Your status = UNFRIEND";
-        }
+            }   
         }else{
         cout << "Your status = UNFRIEND";
-    }
+            }       
 
     return 0;
 }
